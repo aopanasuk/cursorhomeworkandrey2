@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(232, 238, 238);
+    font-family: 'Tiro Gurmukhi', serif;
+}
+.regular{
+    width: 1440px;
+    height: 72px;
+    
+    background: #0B2239;
+}
